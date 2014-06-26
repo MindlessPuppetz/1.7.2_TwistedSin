@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<config>
+    <lines at="topleft">
+
+    </lines>
+    <lines at="topcenter">
+    </lines>
+    <lines at="botleft">
+	    <line>
+            <str>Day {day}, {mctime} Biome: $e{biome}$f</str>
+        </line>
+    </lines>
+    <lines at="botright">
+    </lines>
+</config>

@@ -1,0 +1,91 @@
+//Remove Tools and Weapons
+//Vanilla
+{"action":"RemoveCrafting","output":"item.hatchetWood"}
+{"action":"RemoveCrafting","output":"item.hatchetStone"}
+{"action":"RemoveCrafting","output":"item.pickaxeWood"}
+{"action":"RemoveCrafting","output":"item.pickaxeStone"}
+{"action":"RemoveCrafting","output":"item.hoeWood"}
+{"action":"RemoveCrafting","output":"item.hoeStone"}
+{"action":"RemoveCrafting","output":"item.swordWood"}
+{"action":"RemoveCrafting","output":"item.swordStone"}
+{"action":"RemoveCrafting","output":"item.shovelStone"}
+{"action":"RemoveCrafting","output":"item.shovelWood"}
+
+//Remove Torches
+{"action":"RemoveCrafting","output":"tile.torch"}
+{"action":"RemoveCrafting","output":"tile.decoration.stonetorch"}
+{"action":"RemoveCrafting","output":"tile.blockCarpentersTorch"}
+
+//Gravel to flint
+{"action":"AddShapelessOre","output":"item.flint","quantity":1,"recipe":[{"1":"tile.gravel","2":"tile.gravel","3":"tile.gravel"}]}
+
+//Coal Torches
+{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.white","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapedOre","output":"tile.torch","quantity":1,"recipe":[{"top1":"item.string","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.orange","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.magenta","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.lightBlue","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.yellow","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.lime","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.pink","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.gray","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.silver","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.cyan","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.purple","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.blue","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.brown","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.green","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.red","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.black","top2":"item.coal","middle1":"item.stick"}]}
+
+//Charcoal Torches
+{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.white","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapedOre","output":"tile.torch","quantity":1,"recipe":[{"top1":"item.string","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.orange","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.magenta","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.lightBlue","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.yellow","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.lime","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.pink","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.gray","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.silver","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.cyan","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.purple","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.blue","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.brown","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.green","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.red","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.black","top2":"item.charcoal","middle1":"item.stick"}]}
+
+//Ender Quarry
+{"action":"RemoveCrafting","output":"tile.extrautils:enderQuarry"}
+{"action":"AddShaped","output":"tile.extrautils:enderQuarry","quantity":1,"recipe":[{"top1":"tile.extrautils:decorativeBlock1.1","top2":"tile.sapling.oak","top3":"tile.extrautils:decorativeBlock1.1","middle1":"tile.extrautils:decorativeBlock1.11","middle2":"tile.machineBlock","middle3":"tile.extrautils:decorativeBlock1.11","bottom1":"tile.extrautils:decorativeBlock1.1","bottom2":"item.pickaxeDiamond","bottom3":"tile.extrautils:decorativeBlock1.1"}]}
+
+//Mining Well
+{"action":"RemoveCrafting","output":"tile.miningWellBlock"}
+{"action":"AddShaped","output":"tile.miningWellBlock","quantity":1,"recipe":[{"top1":"item.ingotIron","top2":"item.redstone","top3":"item.ingotIron","middle1":"item.ingotIron","middle2":"item.diamondGearItem","middle3":"item.ingotIron","bottom1":"item.ingotIron","bottom2":"item.pickaxeIron","bottom3":"item.ingotIron"}]}
+
+//Ender-Thermic Pump
+{"action":"RemoveCrafting","output":"tile.extrautils:enderThermicPump"}
+{"action":"AddShaped","output":"tile.extrautils:enderThermicPump","quantity":1,"recipe":[{"top1":"tile.extrautils:decorativeBlock1.1","top2":"tile.pumpBlock","top3":"tile.extrautils:decorativeBlock1.1","middle1":"item.bucketLava","middle2":"item.eyeOfEnder","middle3":"item.bucketWater","bottom1":"tile.extrautils:decorativeBlock1.1","bottom2":"item.pickaxeIron","bottom3":"tile.extrautils:decorativeBlock1.1"}]}
+{"action":"AddShaped","output":"tile.extrautils:enderThermicPump","quantity":1,"recipe":[{"top1":"tile.extrautils:decorativeBlock1.1","top2":"tile.pumpBlock","top3":"tile.extrautils:decorativeBlock1.1","middle1":"item.bucketWater","middle2":"item.eyeOfEnder","middle3":"item.bucketLava","bottom1":"tile.extrautils:decorativeBlock1.1","bottom2":"item.pickaxeIron","bottom3":"tile.extrautils:decorativeBlock1.1"}]}
+
+//Tiered Generators
+//Furnace Gen
+{"action":"RemoveCrafting","output":"tile.extrautils:generator.1"}
+{"action":"AddShaped","output":"tile.extrautils:generator.1","quantity":1,"recipe":[{"top1":"item.ingotIron","top2":"item.ingotIron","top3":"item.ingotIron","middle1":"item.ingotIron","middle2":"tile.extrautils:generator.0","middle3":"item.ingotIron","bottom1":"item.redstone","bottom2":"tile.furnace","bottom3":"item.redstone"}]}
+//Lava Gen
+{"action":"RemoveCrafting","output":"tile.extrautils:generator.2"}
+{"action":"AddShaped","output":"tile.extrautils:generator.2","quantity":1,"recipe":[{"top1":"item.ingotGold","top2":"item.ingotGold","top3":"item.ingotGold","middle1":"item.ingotGold","middle2":"tile.extrautils:generator.1","middle3":"item.ingotGold","bottom1":"item.redstone","bottom2":"tile.furnace","bottom3":"item.redstone"}]}
+//Ender Gen
+{"action":"RemoveCrafting","output":"tile.extrautils:generator.3"}
+{"action":"AddShaped","output":"tile.extrautils:generator.3","quantity":1,"recipe":[{"top1":"item.enderPearl","top2":"item.enderPearl","top3":"item.enderPearl","middle1":"item.eyeOfEnder","middle2":"tile.extrautils:generator.2","middle3":"item.eyeOfEnder","bottom1":"item.redstone","bottom2":"tile.furnace","bottom3":"item.redstone"}]}
+//Solar Gen
+{"action":"RemoveCrafting","output":"tile.extrautils:generator.7"}
+{"action":"AddShaped","output":"tile.extrautils:generator.7","quantity":1,"recipe":[{"top1":"item.dyePowder.blue","top2":"item.netherquartz","top3":"item.dyePowder.blue","middle1":"item.netherquartz","middle2":"tile.extrautils:generator.3","middle3":"item.netherquartz","bottom1":"item.redstone","bottom2":"tile.furnace","bottom3":"item.redstone"}]}
+//Nether Star Gen
+{"action":"RemoveCrafting","output":"tile.extrautils:generator.11"}
+{"action":"AddShaped","output":"tile.extrautils:generator.11","quantity":1,"recipe":[{"top1":"item.skull.wither","top2":"item.netherStar","top3":"item.skull.wither","middle1":"item.skull.wither","middle2":"tile.extrautils:generator.7","middle3":"item.skull.wither","bottom1":"item.redstone","bottom2":"tile.furnace","bottom3":"item.redstone"}]}
+//culinary gen
+{"action":"RemoveCrafting","output":"tile.extrautils:generator.5"}
+{"action":"AddShaped","output":"tile.extrautils:generator.5","quantity":1,"recipe":[{"top1":"item.ingotIron","top2":"item.ingotIron","top3":"item.ingotIron","middle1":"item.ingotIron","middle2":"item.beefCooked","middle3":"item.ingotIron","bottom1":"item.redstone","bottom2":"tile.furnace","bottom3":"item.redstone"}]}

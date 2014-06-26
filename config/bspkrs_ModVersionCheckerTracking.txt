@@ -1,0 +1,16 @@
+# Configuration file
+
+version_check_tracker {
+    S:ArmorStatusHUD=1.26
+    S:StatusEffectHUD=1.25
+    S:bspkrsCore=6.11
+
+    runs_since_last_message {
+        I:ArmorStatusHUD=10
+        I:StatusEffectHUD=10
+        I:bspkrsCore=1
+    }
+
+}
+
+
