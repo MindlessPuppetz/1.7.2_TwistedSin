@@ -20,42 +20,42 @@
 {"action":"AddShapelessOre","output":"item.flint","quantity":1,"recipe":[{"1":"tile.gravel","2":"tile.gravel","3":"tile.gravel"}]}
 
 //Coal Torches
-{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.white","top2":"item.coal","middle1":"item.stick"}]}
-{"action":"AddShapedOre","output":"tile.torch","quantity":1,"recipe":[{"top1":"item.string","top2":"item.coal","middle1":"item.stick"}]}
-{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.orange","top2":"item.coal","middle1":"item.stick"}]}
-{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.magenta","top2":"item.coal","middle1":"item.stick"}]}
-{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.lightBlue","top2":"item.coal","middle1":"item.stick"}]}
-{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.yellow","top2":"item.coal","middle1":"item.stick"}]}
-{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.lime","top2":"item.coal","middle1":"item.stick"}]}
-{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.pink","top2":"item.coal","middle1":"item.stick"}]}
-{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.gray","top2":"item.coal","middle1":"item.stick"}]}
-{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.silver","top2":"item.coal","middle1":"item.stick"}]}
-{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.cyan","top2":"item.coal","middle1":"item.stick"}]}
-{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.purple","top2":"item.coal","middle1":"item.stick"}]}
-{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.blue","top2":"item.coal","middle1":"item.stick"}]}
-{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.brown","top2":"item.coal","middle1":"item.stick"}]}
-{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.green","top2":"item.coal","middle1":"item.stick"}]}
-{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.red","top2":"item.coal","middle1":"item.stick"}]}
-{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.black","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.white","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":1,"recipe":[{"top1":"item.string","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.orange","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.magenta","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.lightBlue","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.yellow","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.lime","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.pink","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.gray","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.silver","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.cyan","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.purple","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.blue","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.brown","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.green","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.red","top2":"item.coal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.black","top2":"item.coal","middle1":"item.stick"}]}
 
 //Charcoal Torches
-{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.white","top2":"item.charcoal","middle1":"item.stick"}]}
-{"action":"AddShapedOre","output":"tile.torch","quantity":1,"recipe":[{"top1":"item.string","top2":"item.charcoal","middle1":"item.stick"}]}
-{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.orange","top2":"item.charcoal","middle1":"item.stick"}]}
-{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.magenta","top2":"item.charcoal","middle1":"item.stick"}]}
-{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.lightBlue","top2":"item.charcoal","middle1":"item.stick"}]}
-{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.yellow","top2":"item.charcoal","middle1":"item.stick"}]}
-{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.lime","top2":"item.charcoal","middle1":"item.stick"}]}
-{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.pink","top2":"item.charcoal","middle1":"item.stick"}]}
-{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.gray","top2":"item.charcoal","middle1":"item.stick"}]}
-{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.silver","top2":"item.charcoal","middle1":"item.stick"}]}
-{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.cyan","top2":"item.charcoal","middle1":"item.stick"}]}
-{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.purple","top2":"item.charcoal","middle1":"item.stick"}]}
-{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.blue","top2":"item.charcoal","middle1":"item.stick"}]}
-{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.brown","top2":"item.charcoal","middle1":"item.stick"}]}
-{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.green","top2":"item.charcoal","middle1":"item.stick"}]}
-{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.red","top2":"item.charcoal","middle1":"item.stick"}]}
-{"action":"AddShapedOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.black","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.white","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":1,"recipe":[{"top1":"item.string","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.orange","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.magenta","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.lightBlue","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.yellow","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.lime","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.pink","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.gray","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.silver","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.cyan","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.purple","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.blue","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.brown","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.green","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.red","top2":"item.charcoal","middle1":"item.stick"}]}
+{"action":"AddShapelessOre","output":"tile.torch","quantity":4,"recipe":[{"top1":"tile.cloth.black","top2":"item.charcoal","middle1":"item.stick"}]}
 
 //Ender Quarry
 {"action":"RemoveCrafting","output":"tile.extrautils:enderQuarry"}
