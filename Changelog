@@ -1,8 +1,36 @@
+//changelog from v0.18b to v0.18c
+
+//changes
+-Increased Lycanite mob spawns, too nerfed before.
+-new pack logo!
+-Added another torch recipe using Woven Cotton
+-Turned Forestry Tin and Copper ore gen off
+-Ported custom recipes from Recipe Tweaker to MineTweaker
+-Fixed the VeinMiner changes from last patch to actually work.
+-Fixed Biome ID conflict that cause some Nether to creep into Overworld
+
+//removals
+-Recipe Tweaker "mcTweaker" (Sorry Moze, they want their SMP!)
+-Removed The Kitchen Mod
+
+//additions
+-MineTweaker v3.0.1
+
+//updates
+-Updated EnderIO from 1.1.0_alpha.114 to 2.0_beta.123
+-Updated Botania from r1.1-63 to r1.1-67
+-Updated InGame Info XML from 2.6.2.48 to 2.6.2.49
+-Updated TiC Tooltips from 1.1.7 to 1.1.8
+
+
+----------------------------------------------------------
+
 //changelog from v0.18a to v0.18b
 
 //changes
 -Added Snow, Snow Blocks, Sky Stone, and Lucky Blocks to veinminer.
 
+----------------------------------------------------------
 
 //changelog from v0.17c to v0.18a
 
@@ -32,8 +60,6 @@
 -Updated CodeChickenLib from 1.1.1.80 to 1.1.1.87
 -Updated Carpenter's Blocks from 3.2.0 to 3.2.1
 -Updated Biomes O' Plenty from 2.0.1.890 to 2.0.1.892
-
-
 
 
 ----------------------------------------------------------
