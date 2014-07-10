@@ -1,3 +1,47 @@
+//changelog from v0.18c to v0.19a
+
+//changes
+-Complete Biome rewrite (Yes, new worlds are needed!)
+-Changed In-game time to 12hr format
+-Changes to Infernal Mobs
+-Fixed Pam's HC Skillet recipe conflict
+-Enabled Carpenter's Torch recipe (modified recipe)
+
+//removals
+-Removed Buildcraft v6.0.16EXP
+-Removed BuildCraft Additions (Doesn't support v5 of BC)
+
+//additions
+-Added BuildCraft v5.0.6
+-Added Natura v2.2.0a3
+-Added Dimensional Anchors v58.1.3
+++Added Immibis Core v58.1.4 (Dimensional Anchor dependency)
+-Added Iguana Tweaks vBeta-15
+++No more sleeping
+++Poison now kills (watch that rain!)
+++Certain surfaces will slow you down
+-Added The Spice of Life v1.0.5a
+++Diminishing returns on eating same food
+-Added Oharaicaine Tweaks 1.1
+
+//updates
+-Updated Stackie from v1.5.0.24 to v1.5.0.25
+-Updated Lycanites Mobs from v1.6.2c to v1.6.3
+++New mob!
+-Updated MineTweaker from v3.0.1 to v3.0.5
+++Torches can now be made in stacks instead of one at a time!
+-Updated ExtraCells2 from v2.0.19 to v2.1.1
+-Updated CodeChickenCore from v1.0.0 to v1.0.1.7
+-Updated CodeChickenLib from v1.1.1.87 to v1.1.1.92
+-Updated NEI from v1.0.1 to v1.0.2.14
+-Updated Doomlike Dungeons from v1.2.11 to v1.2.13
+++Fixed crash bug
+
+
+
+----------------------------------------------------------
+
+
 //changelog from v0.18b to v0.18c
 
 //changes
