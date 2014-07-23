@@ -1,3 +1,42 @@
+//changelog from v0.19a to v0.19b
+
+//changes
+-RECIPES!!! Remember, NEI is your FRIEND!
+++Made it harder to make Archimedes Ships for balance purposes
+++Disabled wood/stone weapons from Balkons and Mine&Blade
+++Replaced sticks from several recipes with wooden tool rods (TiC)
+++New Shears, bucket, watering can recipes
+++Tiered Armor fix
+++Log to Plank recipe changes
+-Added Natura Trees/Leaves to VeinMiner
+
+//additions
+-Added NEIForestry v1.1 (Adds Forestry recipes to NEI)
+
+//updates
+-Updated OharaicaineTweaks from v1.1 to v1.3
+-Updated MineTweaker 3 from v3.0.5 to v3.0.6
+-Updated Lycanites Mobs from v1.6.3 to v1.6.4b
+-Updated IronChests from v6.0.32.724 to v6.0.32.725
+-Updated ExtraCells2 from v2.1.1 to v2.1.6
+-Updated Doomlike Dungeons from v1.2.13 to v1.3.0
+-Updated CodeChickenCore from v1.0.1.7 to v1.0.2.10
+-Updated Botania from v1.1-67 to v1.1-83
+-Updated Twilight Forest from v2.1.1 to v2.2.3
+-Updated BiblioCraft from v1.7.1 to v1.7.5
+-Updated Forestry from v2.4.1.27 to v2.4.1.28
+-Updated Chisel from v1.5.4f to v1.5.4g
+-Updated Carpenter's Blocks from v3.2.1 to v3.2.5
+-Updated Blood Magic from v1.0.1g to v1.1.0
+-Updated Biomes O' Plenty from v2.0.1.892 to v2.0.2.932
+-Updated Applied Energistics 2 from v.rv0-stable-2 to v.rv0-stable-9
+-Updated The Spice of Life from v1.0.5a to v1.1.0
+
+
+
+----------------------------------------------------------
+
+
 //changelog from v0.18c to v0.19a
 
 //changes
